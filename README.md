@@ -2,6 +2,8 @@
 
 A simple, minimal React + Vite site that lists the projects I built while learning HTML, CSS and JavaScript. It has a light and dark theme, and the project list comes from a JSON file.
 
+**🔗 Live site:** [prasad-projects.netlify.app](https://prasad-projects.netlify.app/)
+
 ## Run locally
 
 ```bash
