@@ -1,0 +1,304 @@
+[
+  {
+    "id": "forkify",
+    "name": "Forkify",
+    "description": "A recipe app built with vanilla JavaScript using the MVC architecture. Search over 1,000,000 recipes, adjust servings, bookmark your favourites and upload your own recipes.",
+    "image": "/projects/forkify.jpg",
+    "skills": [
+      {
+        "name": "JavaScript",
+        "icon": "/skills/javascript.svg"
+      },
+      {
+        "name": "Sass",
+        "icon": "/skills/sass.svg"
+      },
+      {
+        "name": "HTML",
+        "icon": "/skills/html.svg"
+      },
+      {
+        "name": "Parcel",
+        "icon": "/skills/parcel.svg"
+      }
+    ],
+    "liveUrl": "https://prasad-forkify.netlify.app/",
+    "githubUrl": "https://github.com/prasad-k-s/Forkify"
+  },
+  {
+    "id": "mapty",
+    "name": "Mapty",
+    "description": "A workout-tracking app that lets you log running and cycling sessions directly on an interactive map. It calculates your pace or speed and saves everything in your browser.",
+    "image": "/projects/mapty.jpg",
+    "skills": [
+      {
+        "name": "HTML",
+        "icon": "/skills/html.svg"
+      },
+      {
+        "name": "CSS",
+        "icon": "/skills/css.svg"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/skills/javascript.svg"
+      },
+      {
+        "name": "Leaflet",
+        "icon": "/skills/leaflet.svg"
+      }
+    ],
+    "liveUrl": "https://prasad-mapty.netlify.app/",
+    "githubUrl": "https://github.com/prasad-k-s/Mapty"
+  },
+  {
+    "id": "bankist",
+    "name": "Bankist App",
+    "description": "A minimalist online banking app. Log in to a demo account to view transactions, transfer money, request a loan or close your account.",
+    "image": "/projects/bankist.jpg",
+    "skills": [
+      {
+        "name": "HTML",
+        "icon": "/skills/html.svg"
+      },
+      {
+        "name": "CSS",
+        "icon": "/skills/css.svg"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/skills/javascript.svg"
+      }
+    ],
+    "liveUrl": "https://prasad-bankist.netlify.app/",
+    "githubUrl": "https://github.com/prasad-k-s/Bankist"
+  },
+  {
+    "id": "bankist-website",
+    "name": "Bankist Website",
+    "description": "A responsive landing page for a fictional bank, packed with modern DOM techniques: smooth scrolling, sticky navigation, reveal-on-scroll sections, lazy-loaded images and a slider.",
+    "image": "/projects/bankist-website.jpg",
+    "skills": [
+      {
+        "name": "HTML",
+        "icon": "/skills/html.svg"
+      },
+      {
+        "name": "CSS",
+        "icon": "/skills/css.svg"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/skills/javascript.svg"
+      }
+    ],
+    "liveUrl": "https://prasad-bankist-web.netlify.app/",
+    "githubUrl": "https://github.com/prasad-k-s/Bankist-Website"
+  },
+  {
+    "id": "omnifood",
+    "name": "Omnifood",
+    "description": "A fully responsive landing page for a fictional AI-powered healthy meal subscription service, built from scratch with HTML, CSS and a little JavaScript.",
+    "image": "/projects/omnifood.jpg",
+    "skills": [
+      {
+        "name": "HTML",
+        "icon": "/skills/html.svg"
+      },
+      {
+        "name": "CSS",
+        "icon": "/skills/css.svg"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/skills/javascript.svg"
+      }
+    ],
+    "liveUrl": "https://prasad-omnifood.netlify.app/",
+    "githubUrl": "https://github.com/prasad-k-s/Omnifood"
+  },
+  {
+    "id": "natours",
+    "name": "Natours",
+    "description": "A landing page for a fictional nature tours company, built with Sass to practise advanced CSS: animations, clip-path, responsive images and a scalable Sass architecture.",
+    "image": "/projects/natours.jpg",
+    "skills": [
+      {
+        "name": "HTML",
+        "icon": "/skills/html.svg"
+      },
+      {
+        "name": "CSS",
+        "icon": "/skills/css.svg"
+      },
+      {
+        "name": "Sass",
+        "icon": "/skills/sass.svg"
+      },
+      {
+        "name": "npm",
+        "icon": "/skills/npm.svg"
+      }
+    ],
+    "liveUrl": "https://natours-prasad.netlify.app/",
+    "githubUrl": "https://github.com/prasad-k-s/Natours"
+  },
+  {
+    "id": "trillo",
+    "name": "Trillo",
+    "description": "A hotel booking page for an all-in-one booking app, built to learn Flexbox in depth and styled with Sass.",
+    "image": "/projects/trillo.jpg",
+    "skills": [
+      {
+        "name": "HTML",
+        "icon": "/skills/html.svg"
+      },
+      {
+        "name": "CSS",
+        "icon": "/skills/css.svg"
+      },
+      {
+        "name": "Sass",
+        "icon": "/skills/sass.svg"
+      },
+      {
+        "name": "npm",
+        "icon": "/skills/npm.svg"
+      }
+    ],
+    "liveUrl": "https://trillo-prasad.netlify.app/",
+    "githubUrl": "https://github.com/prasad-k-s/Trillo"
+  },
+  {
+    "id": "nexter",
+    "name": "Nexter",
+    "description": "A real estate landing page built to learn CSS Grid in depth. The whole layout, from the page structure to the photo gallery, uses Grid and is styled with Sass.",
+    "image": "/projects/nexter.jpg",
+    "skills": [
+      {
+        "name": "HTML",
+        "icon": "/skills/html.svg"
+      },
+      {
+        "name": "CSS",
+        "icon": "/skills/css.svg"
+      },
+      {
+        "name": "Sass",
+        "icon": "/skills/sass.svg"
+      },
+      {
+        "name": "npm",
+        "icon": "/skills/npm.svg"
+      }
+    ],
+    "liveUrl": "https://prasad-nexter.netlify.app/",
+    "githubUrl": "https://github.com/prasad-k-s/Nexter"
+  },
+  {
+    "id": "swipe",
+    "name": "Swipe",
+    "description": "A responsive landing page for a fictional online payments platform, featuring an animated WebGL gradient background in the hero section.",
+    "image": "/projects/swipe.jpg",
+    "skills": [
+      {
+        "name": "HTML",
+        "icon": "/skills/html.svg"
+      },
+      {
+        "name": "CSS",
+        "icon": "/skills/css.svg"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/skills/javascript.svg"
+      }
+    ],
+    "liveUrl": "https://prasad-swipe.netlify.app/",
+    "githubUrl": "https://github.com/prasad-k-s/Swipe"
+  },
+  {
+    "id": "chair-shop",
+    "name": "Rest & Relax Chairs",
+    "description": "A simple, fully responsive website for a fictional chair shop, built with HTML and CSS to practise layout and responsive design.",
+    "image": "/projects/chair-shop.jpg",
+    "skills": [
+      {
+        "name": "HTML",
+        "icon": "/skills/html.svg"
+      },
+      {
+        "name": "CSS",
+        "icon": "/skills/css.svg"
+      }
+    ],
+    "liveUrl": "https://prasad-chair-shop.netlify.app/",
+    "githubUrl": "https://github.com/prasad-k-s/Chair-shop"
+  },
+  {
+    "id": "pig-game",
+    "name": "Pig Game",
+    "description": "A two-player dice game. Roll the dice, build up points and decide when to hold, but roll a 1 and you lose everything from that turn.",
+    "image": "/projects/pig-game.jpg",
+    "skills": [
+      {
+        "name": "HTML",
+        "icon": "/skills/html.svg"
+      },
+      {
+        "name": "CSS",
+        "icon": "/skills/css.svg"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/skills/javascript.svg"
+      }
+    ],
+    "liveUrl": "https://prasad-pig-game.netlify.app/",
+    "githubUrl": "https://github.com/prasad-k-s/Pig-Game"
+  },
+  {
+    "id": "guess-my-number",
+    "name": "Guess My Number",
+    "description": "A simple number-guessing game. Guess the secret number between 1 and 20 before your score runs out.",
+    "image": "/projects/guess-my-number.jpg",
+    "skills": [
+      {
+        "name": "HTML",
+        "icon": "/skills/html.svg"
+      },
+      {
+        "name": "CSS",
+        "icon": "/skills/css.svg"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/skills/javascript.svg"
+      }
+    ],
+    "liveUrl": "https://prasad-guess-my-number.netlify.app/",
+    "githubUrl": "https://github.com/prasad-k-s/Guess-My-Number"
+  },
+  {
+    "id": "modal-window",
+    "name": "Modal Window",
+    "description": "A reusable modal (popup) component built with vanilla JavaScript, HTML and CSS.",
+    "image": "/projects/modal-window.jpg",
+    "skills": [
+      {
+        "name": "HTML",
+        "icon": "/skills/html.svg"
+      },
+      {
+        "name": "CSS",
+        "icon": "/skills/css.svg"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/skills/javascript.svg"
+      }
+    ],
+    "liveUrl": "https://prasad-modal-window.netlify.app/",
+    "githubUrl": "https://github.com/prasad-k-s/Modal-Window"
+  }
+]
